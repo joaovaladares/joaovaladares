@@ -22,8 +22,8 @@ const joao = {
 
 - 🔭 I’m currently working on improving my problem solving capacities practicing with Leetcode daily
 - also I'm doing my final thesis on my Computer Science course about Validating Smart Contracts in Solidity
-- 🌱 I’m currently learning Java Spring Boot ecosystem since I want to pivot to backend
-- 👯 I’m looking to collaborate on open-source projects where I can learn backend and also web3
+- 🌱 I’m currently learning C# and .NET Framework
+- 👯 I’m looking to collaborate on open-source projects where I can learn Backend and also Fullstack
 - 🤔 I’m looking for help with pivoting my career into backend, so I would love if you could reach out and help me on this matter
 
 <em><b>I would love if you wanted to connect with me and trade knowledge</b> so if you want to say hi,<b> dont be shy!</b> :)</em>
