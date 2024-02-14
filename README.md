@@ -1,7 +1,6 @@
 <h2> Hi, I'm João! 👋 </h2>
-<img align='right' src="https://media.giphy.com/media/UHAYP0FxJOmFBuOiC2/giphy.gif" width="230">
 <p><em>Student at <a href="https://portal.cin.ufpe.br">CIn/UFPE</a>, Currently a Developer at <a href="https://www.nelogica.com.br">Nelogica</a> 
-  I'm from Recife, PE - Brazil <img src="https://media.giphy.com/media/3oEjHZMFYibQnjvTq0/giphy.gif" width="30"> 
+  I'm from Recife, PE - Brazil
 </em></p>
 
 [![Linkedin: João Vítor Valadares](https://img.shields.io/badge/-João_Valadares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovvaladares/)](https://www.linkedin.com/in/joaovvaladares/)
